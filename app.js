@@ -7,4 +7,4 @@ app.get('/', (req, res) => {
     res.send({ value: 42 });
 });
 
-app.listen(80, () => {});
+app.listen(3000, () => {});
